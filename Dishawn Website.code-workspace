@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../web"
+		},
+		{
+			"path": "../HTML structure practice"
+		},
+		{
+			"path": "../CSS-In-Depth-Lab-Resources/CSS-In-Depth-Lab-Resources/P02_WebAgency"
+		},
+		{
+			"path": "../CSS-In-Depth-Lab-Resources/CSS-In-Depth-Lab-Resources/P03_Potato"
+		},
+		{
+			"path": "../CSS-In-Depth-Lab-Resources/CSS-In-Depth-Lab-Resources/P01_RecipeCard"
+		}
+	],
+	"settings": {}
+}
