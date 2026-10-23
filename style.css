@@ -15,6 +15,7 @@ nav#topmenu li {
   line-height: 40px;
   height: 40px;
   display: inline-block;
+  flex-wrap: wrap;
   padding: 20px;
 }
 /* Default style (laptops/desktops) */
@@ -23,6 +24,7 @@ nav#topmenu a {
     color: #9a4747;
     padding: 10px 15px;
     display: inline-block;
+    flex-wrap: wrap;
 }
 
 /* For Tablets */
@@ -30,6 +32,7 @@ nav#topmenu a {
     nav#topmenu a {
         padding: 8px 12px;
         font-size: 16px;
+        flex-wrap: wrap;
     }
 }
 
@@ -37,6 +40,7 @@ nav#topmenu a {
 @media screen and (max-width: 480px) {
     nav#topmenu a {
         display: block;
+        flex-wrap: wrap;
         width: 100%;
         text-align: center;
         padding: 12px;
