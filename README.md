@@ -10,4 +10,8 @@ show the text that renders in mobile, tablet and laptops. I learned to do icons 
 I will add 5 features using Java script which are: Style Pargraph, Pargraph Background Colour, Display Current Date and Time, Highlight Bold Text on Hover and Count Dropdown Items 
 The Style Pargraph allows users to switch to dark or light theme if they so desire
 Pargraph Background Colour allows for users to change the text box with any colour 
- 
+Displays current date and time in real time in seconds
+Highlight Bold Text which gives text slected to hover and Count Dropdown Items gives my 
+website the ability to say welcome to you in the morning, affertoon and night.
+
+This Java Script activity has given me more options to do in my final project and it will prove useful to me. The Java script is an interesting thing to play with it adds my website and improves on things like intractivity on the website and adds charm to the website. This was a good practice for my final project.
