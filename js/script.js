@@ -12,9 +12,10 @@ if (hour < 12) {
 
 
 document.getElementById("welcomeMessage").textContent = message;
-// Displays the text in the green
-
-document.querySelector("p").style.backgroundColor = "lightgreen";
+// Displays the text to a colour 
+document.querySelector("p").style.backgroundColor = "red";
+document.querySelector("p").style.backgroundColor = "#ffcc00";
+document.querySelector("p").style.backgroundColor = "rgb(0, 128, 255)";
 
 const now = new Date();
 //Displays the date in real time 
