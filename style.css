@@ -122,15 +122,15 @@ body {
 
 .dark-mode {
     background-color: #222;
-    color: #9a4747(234, 11, 11);
+    color: #9a4747;
 }
 
 .dark-mode #myParagraph {
     background-color: #444;
     color: #9a4747;
 }
+
 .highlight {
     background-color: rgb(79, 79, 71);
     color: rgb(123, 17, 17);
-    
 }
